@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="personal data for market research:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/personal_data_for_market_research_jar</output-path>
+    <root id="archive" name="personal data for market research.jar">
+      <element id="module-output" name="personal data for market research" />
+    </root>
+  </artifact>
+</component>
